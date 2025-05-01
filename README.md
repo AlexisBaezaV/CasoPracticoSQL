@@ -1,4 +1,4 @@
-# CasoPracticoSQL
+# Análisis Sabores del Mundo
 # Descripción General
 Este análisis fue realizado para _Sabores del Mundo_, un restaurante reconocido por su auténtica cocina internacional y su ambiente acogedor. A principios de año, el restaurante lanzó un nuevo menú y comenzó a recopilar información detallada sobre las transacciones de sus clientes con el objetivo de identificar áreas de oportunidad.
 
